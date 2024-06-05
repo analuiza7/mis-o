@@ -6,10 +6,10 @@ const caixaResultados = document.querySelector("texto-resultados");
 
 const perguntas = [
     {
-enunciado: "Pergunta 1",
+enunciado: "Como está a tecnologia e inivação da sua escola?",
 alternativas: [
-    "Alternativa 1",
-    "Alternativa 2"
+    "está exelente!",
+    "está péssima!"
 ]
     },
     { 
