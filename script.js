@@ -6,9 +6,9 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "No futuro do agro, a tecnologia revolucionará a agricultura, aumentando a produtividade e a sustentabilidad.O que você acha que será uma grande inovação para o setor?",
         alternativas: [
-            "Isso é assustador!",
+            "Uso de drones para monitoramento de lavouras!",
             "Isso é maravilhoso!"
         ]
     },
